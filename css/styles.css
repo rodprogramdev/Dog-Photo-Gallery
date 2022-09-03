@@ -17,6 +17,11 @@ body{
     border-bottom: 4px solid #000040;
 }
 
+.gallery{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
 
 .gallery img{
     width: 100%;
