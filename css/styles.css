@@ -31,6 +31,13 @@ body{
     gap: 16px;
 }
 
+.gallery:after{
+    content:"";
+    width: 350px; 
+    background-color: green;
+    height: 350px;
+}
+
 /*FLEX-ITEM*/
 .gallery img{
     width: 100%;
