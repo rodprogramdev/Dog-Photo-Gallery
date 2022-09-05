@@ -39,4 +39,5 @@ body{
     object-fit: cover; /*Work with aspect ratio and solve image distortion*/
     /* padding: 2%; */
     /* background-color: red; */
+    border-radius: 10px;
 }
